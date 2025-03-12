@@ -1,0 +1,2 @@
+# For Taking input from the user using print function and input function
+x=print(input("First number:")
